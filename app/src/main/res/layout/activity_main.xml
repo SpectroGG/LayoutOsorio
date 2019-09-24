@@ -19,7 +19,7 @@
         android:height="40dp"
         android:width="100dp"/>
     <Button
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Buenas Tardes!"
         android:background="#2196F3"
