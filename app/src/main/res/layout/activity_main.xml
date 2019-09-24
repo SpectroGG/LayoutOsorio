@@ -27,7 +27,7 @@
         android:width="200dp"
         android:textSize="50sp"/>
     <LinearLayout
-        android:layout_width="match_parent"
+        android:layout_width="200dp"
         android:layout_height="match_parent">
     <Button
         android:layout_width="wrap_content"
