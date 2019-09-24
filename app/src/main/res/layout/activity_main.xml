@@ -32,7 +32,7 @@
         android:background="#FFEB3B"
         android:orientation="vertical">
     <Button
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Buenas Noches!"
         android:background="#fff00000"
