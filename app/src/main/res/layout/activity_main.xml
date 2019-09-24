@@ -21,7 +21,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Buenas Tardes!"
+        android:text="Match Parent"
         android:background="#2196F3"
         android:height="60dp"
         android:width="200dp"
