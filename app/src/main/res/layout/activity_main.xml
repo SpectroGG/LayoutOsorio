@@ -24,14 +24,16 @@
         android:text="Buenas Tardes!"
         android:background="#2196F3"
         android:height="60dp"
-        android:width="200dp"/>
+        android:width="200dp"
+        android:textSize="50sp"/>
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Buenas Noches!"
         android:background="#fff00000"
         android:height="80dp"
-        android:width="300dp"/>
+        android:width="300dp"
+        android:textSize="50sp"/>
 
 
 </LinearLayout>
